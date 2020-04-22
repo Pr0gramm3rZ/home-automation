@@ -1,0 +1,27 @@
+{
+  "name": "express-sql-boiler-plate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pr0gramm3rZ/express-sql-boiler-plate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pr0gramm3rZ/express-sql-boiler-plate/issues"
+  },
+  "homepage": "https://github.com/Pr0gramm3rZ/express-sql-boiler-plate#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mssql": "^6.2.0"
+  }
+}
